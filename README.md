@@ -30,12 +30,17 @@
 
 - 💞️ A few of the social media API bots are
 
+  - Truth Social (based on the official internal TruthSocial API for iOS)
+  - Snapchat (based on the official internal Snapchat API for iOS, working as of May 2025): https://github.com/BestBotsInTown-EU/Snapchat-Bot https://linktree.com/BestBotsInTown
+  - Tinder (based on the official internal Tinder API for iOS, working as of May 2025):
+  - TikTok (based on the official internal TikTok API for iOS, currently not available, updated required)
   - ***Several social media and dating apps we can list here at GitHub due to trademark issues. -> Please ask us via Telegram (contact listed below)***
   - White label solutions for resellers and agencies available (neutral design, no copyright notices, no URL/contact mention, optionally your corporate design etc.)
   - Countless custom (exclusive) bot solutions we are not allowed to disclose
-  - More bots will be announced soon
+  - More bots will be announced soon (maybe Bumble, Badoo, Grindr, Hinge, OkCupid etc.)
 
-  - ![Social Media App API Bot - BestBotsInTown - GitHub](https://github.com/user-attachments/assets/fba7000b-be69-44ab-ae2a-d6777b1ecef4)
+![Social Media App API Bot - BestBotsInTown - GitHub](https://github.com/user-attachments/assets/fba7000b-be69-44ab-ae2a-d6777b1ecef4)
+(Click to zoom this screenshot and open it in a new browser tab)
 
 &nbsp;
 
@@ -53,11 +58,11 @@
   - We can be your independent freelancers, project partners or consulting people
   - High quality solutions with future updates and support, "Made in West Europe"
   - We don't offer anything "open source" or for free
-  - Please contact us to discuss your requirements (don't contact us if your budget is lower than US$ 2,000 ;-) for your own custom solution)
+  - Please contact us to discuss your requirements (don't contact us if your budget is lower than US$ 5,000 ;-) for your own custom solution)
 
 &nbsp;
 
-- Again we have to say that ***we can't provide free trainings, mentorings, consultings***. No matter which topic. Please contact us only if you are able to invest at least US$ 2,000 in a training/mentoring/consulting.
+- Again we have to say that ***we can't provide free trainings, mentorings, consultings***. No matter which topic. Please contact us only if you are able to invest at least US$ 5,000 in a training/mentoring/consulting.
 
 &nbsp;
 
@@ -65,8 +70,8 @@
 
   - Telegram: BestBotsInTown - https://telegram.me/BestBotsInTown
   - Telegram channel: BestBotsInTown News - https://telegram.me/bestbotsintown_news_1
-  - Email: (***We prefer a contact by Telegram than by email***, but the email address is shown at some screenshots of our Snapchat API SaaS bot solution here: https://github.com/BestBotsInTown-01/Snapchat-Bot)
-  - GitHub: @BestBotsInTown-EU - https://linktree.com/BestBotsInTown-EU
+  - Email: (***We prefer a contact by Telegram than by email***, but the email address is shown at some screenshots of our Snapchat API SaaS bot solution here: https://github.com/BestBotsInTown-EU/Snapchat-Bot)
+  - GitHub: https://linktree.com/BestBotsInTown (***In case this GitHub page will disappear and require a new link, please bookmark the Linktree page https://linktree.com/BestBotsInTown***)
   - ***Existing and new customers have additional ways to receive direct responses.***
 
 &nbsp;
