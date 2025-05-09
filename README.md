@@ -39,7 +39,7 @@
   - Countless custom (exclusive) bot solutions we are not allowed to disclose
   - More bots will be announced soon (maybe Bumble, Badoo, Grindr, Hinge, OkCupid etc.)
 
-![Social Media App API Bot - BestBotsInTown - GitHub](https://github.com/user-attachments/assets/fba7000b-be69-44ab-ae2a-d6777b1ecef4)
+![Social Media App API Bot - BestBotsInTown - GitHub](https://github.com/user-attachments/assets/4c27074a-fffe-4187-9364-f3f9333b412b)
 (Click to zoom this screenshot and open it in a new browser tab)
 
 &nbsp;
@@ -99,6 +99,6 @@ Social Media Bot - Social Media API Bot - Social Media API - Social Media API En
 
 &nbsp;
 
-![Social Media App API Bot - BestBotsInTown - GitHub](https://github.com/user-attachments/assets/fba7000b-be69-44ab-ae2a-d6777b1ecef4)
+![Social Media App API Bot - BestBotsInTown - GitHub](https://github.com/user-attachments/assets/4c27074a-fffe-4187-9364-f3f9333b412b)
 
 &nbsp;
